@@ -1,4 +1,4 @@
-<img src=".github/ignite.png" alt="Ignite" >
+<img src="screens/ignite.png" alt="Ignite" >
 
 <h3 align="center">
   Desafio 02 - Componentizando a aplicação
@@ -19,7 +19,7 @@
 ## :rocket: Sobre o desafio
 
 <p align="center">
-  <img src=".github/watchme.png" alt="WatchMe">
+  <img src="screens/watchme.png" alt="WatchMe">
 </p>
 
 Nesse desafio, o principal objetivo é refatorar uma página para listagem de filmes de acordo com gênero. 
